@@ -109,15 +109,10 @@ body {
   background-color:rgb(255, 255, 255);
   font-size: 25px;
   display:inline;
-  background-color: white;
+  background-color: rgb(170, 152, 152);
 }
 
-.mee{
-  background-color:rgb(255, 255, 255);
-  font-size: 25px;
-  display: inline;
-  color:black;
-}
+
 
 .chess{
   background-color: yellow;
@@ -137,8 +132,8 @@ body {
 
 .wethinkcode1{
   font-size: 35px;
-  width:370px;
-  height:370px;
+  width:350px;
+  height:350px;
   margin-left:140px ;
   margin-top: 20px;
   border-radius: 10%;
