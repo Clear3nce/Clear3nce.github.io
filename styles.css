@@ -3,6 +3,7 @@
   font-family: 'poppins', sans-serif;
   margin:0;
   padding:0;
+
   
 }
 
@@ -73,13 +74,13 @@ body {
   padding-left: 50%;
   position:relative;
   width:100%;
-  
-  
-  
-  
-  
-  
-} 
+}
+
+.portfolio, .skills, .contact{
+  background-image: url(./Images/Photo_1691153488841.png);
+  background-position: center;
+  background-size:cover;
+}
 
 .home-content {
   max-height: 100%;
@@ -134,9 +135,6 @@ body {
 }
 
 .portfolio{
-  background-image:url(./Images/Photo_1691153488841.png);
-  background-position: center;
-  background-size: cover;
   margin-top: 10px;
   min-height: 100vh;
   min-width:100%;
@@ -166,9 +164,6 @@ body {
 }
 
 .skills{
-    background-image: url(./Images/Photo_1691153488841.png);
-    background-position: center;
-    background-size:cover;
     font-size: 25px;
     min-height: 100vh;
     min-width:100%;
@@ -235,10 +230,7 @@ body {
   width:170px;
 }
 
-.contact{
-  background-image: url(./Images/Photo_1691153488841.png);
-  background-size:cover;
-  background-position: center;    
+.contact{   
   min-height: 100vh;
   min-width:100%;
   
