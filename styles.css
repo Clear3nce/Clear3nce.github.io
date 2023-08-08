@@ -110,17 +110,29 @@ body {
 }
 
 .about{
-  background-image: url(./Images/chief.jfif);
-  color:rgb(0, 0, 0);
-  font-size: 35px;
+  background-color: rgb(109, 97, 97);
+  background-position: center;
+  background-size:cover;
+  color:rgb(255, 255, 255);
+  font-size: 30px;
   min-height: 100vh;
   min-width:100%;
+  padding:20px;
+  
+
+}
+.image_{
+  width:220px;
+  height:220px;
+  margin-left:40%;
+  border-radius: 20%;
+  border: 4px gray solid;
 }
 
 .ME{
-  background-color:rgb(255, 255, 255);
-  display:inline;
+  display:inline-block;
   font-size: 25px;
+  margin-left:125px;
 }
 
 
@@ -130,13 +142,16 @@ body {
   color:black;
   display:inline;
   font-size: 30px;
+  padding:10px;
 
 }
 
 .portfolio{
+  font-size: 30px;
   margin-top: 10px;
   min-height: 100vh;
   min-width:100%;
+  padding:20px;
   position: relative;
 }
 
@@ -160,12 +175,15 @@ body {
 .wethink{
   background-color: rgba(66, 39, 39, 0.356);
   color:white;
+  margin-left: 110px;
+  font-size:medium;
 }
 
 .skills{
     font-size: 25px;
     min-height: 100vh;
     min-width:100%;
+    padding:31px;
     position: relative;
 }
 
@@ -195,6 +213,7 @@ body {
     display:inline;
     font-size: 38px;
     justify-content: center;
+    padding:10px;
 }
 
 .programs{
@@ -224,7 +243,7 @@ body {
 
 .teamw{
   border-radius: 10%;
-  margin-left: 140px;
+  margin-left: 40%;
   height:170px;
   width:170px;
 }
@@ -232,6 +251,7 @@ body {
 .contact{   
   min-height: 100vh;
   min-width:100%;
+  padding:20px;
   
 }
 
