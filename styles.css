@@ -3,8 +3,6 @@
   font-family: 'poppins', sans-serif;
   margin:0;
   padding:0;
-
-  
 }
 
 body {
@@ -31,11 +29,9 @@ body {
   font-size: 14px;
   height: 50px;
   width: 50px;
-  
 }
 
 .logoo{
-  
   color:white;
   font-size:30px;
   opacity: 0.9;
@@ -54,7 +50,6 @@ body {
   margin-right: 10px;
   text-decoration:none;
   transition:3s;
-
 }
 
 .navbar a:hover{
@@ -92,7 +87,6 @@ body {
   color: rgb(190, 190, 190);
   font-size: 40px;
   margin-top: 20px;
- 
 }
 
 .home-content h3 {
@@ -102,7 +96,6 @@ body {
 .home-content h1 {
   font-weight: 600;
   font-size: 60px;
-  
 }
 
 .home-content p {
@@ -118,9 +111,8 @@ body {
   min-height: 100vh;
   min-width:100%;
   padding:20px;
-  
-
 }
+
 .image_{
   width:220px;
   height:220px;
@@ -135,15 +127,12 @@ body {
   margin-left:125px;
 }
 
-
-
 .chess{
   background-color: yellow;
   color:black;
   display:inline;
   font-size: 30px;
   padding:10px;
-
 }
 
 .portfolio{
@@ -162,7 +151,6 @@ body {
   margin-left:140px ;
   margin-top: 20px;
   width:350px;
-  
 }
 .wethinkcode2{
   border-radius: 10%;
@@ -252,7 +240,6 @@ body {
   min-height: 100vh;
   min-width:100%;
   padding:20px;
-  
 }
 
 .numbers{
@@ -267,4 +254,11 @@ body {
 .AQ{
   color:aliceblue;
   font-size: 27px;
+}
+
+.top_headings {
+  padding-left: 40%;
+  padding-bottom: 20px;
+  font-size: 50px;
+  font-weight: 700;
 }
