@@ -13,8 +13,7 @@ body {
 
 .header{
   align-items: center;
-  background-color: rgba(114, 114, 114, 0.603);
-  background:transparent;
+  background-color: rgba(0, 0, 0, 0.342);
   display:flex;
   justify-content: space-between; 
   left:0;
